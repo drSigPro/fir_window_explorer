@@ -1,6 +1,6 @@
 # FIR Filter Design – Window Method 📐
 
-An interactive Streamlit app for learning FIR filter design via the windowing method, built for **EE3005 – Analog & Digital Communications**.
+An interactive Streamlit app for learning FIR filter design via the windowing method.
 
 ## Features
 
