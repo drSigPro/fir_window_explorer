@@ -1,0 +1,11 @@
+[project]
+name = "fir-filter-window-design"
+version = "1.0.0"
+description = "Interactive Streamlit app for FIR filter design using the windowing method"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.30",
+    "numpy>=1.24",
+    "scipy>=1.11",
+    "plotly>=5.18",
+]
